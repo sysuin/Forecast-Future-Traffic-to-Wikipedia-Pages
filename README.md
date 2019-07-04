@@ -4,4 +4,4 @@ This project predicts the future web traffic for approximately 145,000 Wikipedia
 
 ## Data
 
-The data used in this respository can be downloaded from the Kaggle using [this link] (https://www.kaggle.com/c/6768/download-all).
+The data used in this respository can be downloaded from the Kaggle using [this link](https://www.kaggle.com/c/6768/download-all).
